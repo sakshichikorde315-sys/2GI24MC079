@@ -1,4 +1,2 @@
 # 2GI24MC079
-This is sample repo 
-Testing integration with GitHub
-hiiiiiiii
+this is diff repo used for demo
