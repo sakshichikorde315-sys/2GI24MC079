@@ -1,2 +1,2 @@
 # 2GI24MC079
-this is diff repo used for demo
+this is repo used for demo
