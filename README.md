@@ -1,2 +1,2 @@
 # 2GI24MC079
-this is repo used for demo
+This is repo used for demo in exam
